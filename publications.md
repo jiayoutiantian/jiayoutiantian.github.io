@@ -12,10 +12,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
+          <strong> Fashion Recommendation on Street Images
 </strong><br />
-          Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan Yuille<br />
-          Tech report, arXiv<br />
+           <b>Huijing Zhan</b>, Boxin Shi, Jiawei Chen, Qian Zheng, Lingyu Duan, Alex C. Kot<br />
+          IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2019<br />
           <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/Regional-Homogeneity">[CODE]</a><br />
        </p>
     </div>
@@ -124,7 +124,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
           <strong>Adversarial Examples for Semantic Segmentation and Object Detection</strong><br />
           <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille<br />
           IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2017<br />
-          <a href="https://arxiv.org/pdf/1703.08603.pdf">[PDF]</a> <a href="https://github.com/cihangxie/DAG">[CODE]</a> <a href="https://github.com/cihangxie/cihangxie.github.io/blob/master/DAG.pdf">[SLIDES]</a><br />
        </p>
     </div>
 </div>
