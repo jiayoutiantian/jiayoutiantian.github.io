@@ -27,12 +27,15 @@ title: Publications
        </p>
     </div>
 </div>
+<h3>
+    <a name='2018'></a> 2018
+</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
           <strong>Cross-Domain Shoe Retrieval With a Semantic Hierarchy of Attribute Classification Network</strong><br />
            <b>Huijing Zhan</b>, Boxin Shi, Ling-Yu Duan, Alex C. Kot<br />
-          IEEE Trans. Image Processing (<strong>TIP</strong>), 2019<br />
+          IEEE Trans. Image Processing (<strong>TIP</strong>), 2018<br />
        </p>
     </div>
 </div>
