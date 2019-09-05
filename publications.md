@@ -36,6 +36,9 @@ title: Publications
        </p>
     </div>
 </div>
+<h3>
+    <a name='2017'></a> 2017
+</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -45,15 +48,12 @@ title: Publications
        </p>
     </div>
 </div>
-<h3>
-    <a name='2018'></a> 2018
-</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
           <strong> Street-to-shop shoe retrieval with multi-scale viewpoint invariant triplet network</strong><br />
            <b>Huijing Zhan</b>, Boxin Shi, Ling-Yu Duan, Alex C. Kot<br />
-          IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2019<br />
+          IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2017<br />
        </p>
     </div>
 </div>
@@ -63,7 +63,6 @@ title: Publications
           <strong> Fashion analysis with a subordinate attribute classification network</strong><br />
            <b>Huijing Zhan</b>, Boxin Shi, Ling-Yu Duan, Alex C. Kot<br />
           IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2017<br />
-          <a href="https://arxiv.org/pdf/1709.04577.pdf">[PDF]</a><br />
        </p>
     </div>
 </div>
@@ -76,6 +75,9 @@ title: Publications
        </p>
     </div>
 </div>
+<h3>
+    <a name='2015'></a> 2015
+</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
