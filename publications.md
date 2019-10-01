@@ -11,6 +11,16 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong> A*3D Dataset: Towards Autonomous Driving in Challenging Environments
+</strong><br />
+           Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, <b>Huijing Zhan</b>, Chun Ho Pang, Yuda Chen, Armin Mustafa,     Vijay Chandrasekhar, Jie Lin<br />
+          CoRR abs/1909.07541 (2019) <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong> Fashion Recommendation on Street Images
 </strong><br />
            <b>Huijing Zhan</b>, Boxin Shi, Jiawei Chen, Qian Zheng, Lingyu Duan, Alex C. Kot<br />
