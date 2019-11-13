@@ -23,7 +23,7 @@ title: Publications
        <p class="media-heading">
           <strong> Fashion Recommendation on Street Images
 </strong><br />
-           <b>Huijing Zhan</b>, Boxin Shi, Jiawei Chen, Qian Zheng, Lingyu Duan, Alex C. Kot<br />
+           <b>Huijing Zhan</b>, Boxin Shi, Jiawei Chen, Qian Zheng, Alex C. Kot<br />
           IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2019<br />
        </p>
     </div>
@@ -44,7 +44,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong>Cross-Domain Shoe Retrieval With a Semantic Hierarchy of Attribute Classification Network</strong><br />
-           <b>Huijing Zhan</b>, Boxin Shi, Ling-Yu Duan, Alex C. Kot<br />
+           <b>Huijing Zhan</b>, Boxin Shi, Alex C. Kot<br />
           IEEE Trans. Image Processing (<strong>TIP</strong>), 2018<br />
        </p>
     </div>
@@ -56,7 +56,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong> DeepShoe: A Multi-Task View-Invariant CNN for Street-to-Shop Shoe Retrieval</strong><br />
-           <b>Huijing Zhan</b>, Boxin Shi, Ling-Yu Duan, Alex C. Kot<br />
+           <b>Huijing Zhan</b>, Boxin Shi, Alex C. Kot<br />
           British Machine Vision Conference (<strong>BMVC</strong>), 2017<br />
        </p>
     </div>
@@ -65,7 +65,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong> Street-to-shop shoe retrieval with multi-scale viewpoint invariant triplet network</strong><br />
-           <b>Huijing Zhan</b>, Boxin Shi, Ling-Yu Duan, Alex C. Kot<br />
+           <b>Huijing Zhan</b>, Boxin Shi, Alex C. Kot<br />
           IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2017<br />
        </p>
     </div>
@@ -74,7 +74,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong> Fashion analysis with a subordinate attribute classification network</strong><br />
-           <b>Huijing Zhan</b>, Boxin Shi, Ling-Yu Duan, Alex C. Kot<br />
+           <b>Huijing Zhan</b>, Boxin Shi, Alex C. Kot<br />
           IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2017<br />
        </p>
     </div>
