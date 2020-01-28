@@ -14,7 +14,7 @@ title: Publications
           <strong> A*3D Dataset: Towards Autonomous Driving in Challenging Environments
 </strong><br />
            Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, <b>Huijing Zhan</b>, Chun Ho Pang, Yuda Chen, Armin Mustafa,     Vijay Chandrasekhar, Jie Lin<br />
-          CoRR abs/1909.07541, 2019 <br />
+           International Conference on Robotics and Automation (<strong>ICRA</strong>), 2020 <br />
        </p>
     </div>
 </div>
