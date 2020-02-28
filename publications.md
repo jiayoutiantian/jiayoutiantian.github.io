@@ -11,6 +11,16 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong> Pose-Normalized and Appearance-PreservedStreet-to-Shop Clothing Image Generation andFeature Learning
+</strong><br />
+           Huijing Zhan,,Chenyu Yi, Boxin Shi,Jie Lin, Ling-Yu Duan, Alex C.Kot<br />
+           IEEE Transactions on Multimedia (<strong>TMM</strong>), 2020 <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong> A*3D Dataset: Towards Autonomous Driving in Challenging Environments
 </strong><br />
            Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, <b>Huijing Zhan</b>, Chun Ho Pang, Yuda Chen, Armin Mustafa,     Vijay Chandrasekhar, Jie Lin<br />
