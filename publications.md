@@ -33,6 +33,7 @@ title: Publications
        <p class="media-heading">
           <strong> Accelerating CNNs via Budget-aware Filter Pruning with Mask Regularization
 </strong><br />
+           submitted to (<strong>ECCV</strong>), 2020 <br />
        </p>
     </div>
 </div>
