@@ -11,6 +11,15 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong> Accelerating CNNs via Budget-aware Filter Pruning with Mask Regularization
+</strong><br />
+           submitted to (<strong>ECCV</strong>), 2020 <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong> Pose-Normalized and Appearance-Preserved Street-to-Shop Clothing Image Generation andFeature Learning
 </strong><br />
            <b>Huijing Zhan</b>,Chenyu Yi, Boxin Shi,Jie Lin, Ling-Yu Duan, Alex C.Kot<br />
@@ -25,15 +34,6 @@ title: Publications
 </strong><br />
            Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, <b>Huijing Zhan</b>, Chun Ho Pang, Yuda Chen, Armin Mustafa,     Vijay Chandrasekhar, Jie Lin<br />
            International Conference on Robotics and Automation (<strong>ICRA</strong>), 2020 <br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong> Accelerating CNNs via Budget-aware Filter Pruning with Mask Regularization
-</strong><br />
-           submitted to (<strong>ECCV</strong>), 2020 <br />
        </p>
     </div>
 </div>
