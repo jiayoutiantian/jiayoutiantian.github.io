@@ -28,6 +28,14 @@ title: Publications
        </p>
     </div>
 </div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Accelerating CNNs via Budget-aware Filter Pruning with Mask Regularization
+</strong><br />
+       </p>
+    </div>
+</div>
 <h3>
     <a name='2019'></a> 2019
 </h3>
