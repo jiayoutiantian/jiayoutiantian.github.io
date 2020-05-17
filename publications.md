@@ -20,7 +20,7 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong> Pose-Normalized and Appearance-Preserved Street-to-Shop Clothing Image Generation andFeature Learning
+          <strong> Pose-Normalized and Appearance-Preserved Street-to-Shop Clothing Image Generation and Feature Learning
 </strong><br />
            <b>Huijing Zhan</b>,Chenyu Yi, Boxin Shi,Jie Lin, Ling-Yu Duan, Alex C.Kot<br />
            IEEE Transactions on Multimedia (<strong>TMM</strong>), 2020 <br />
