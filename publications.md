@@ -102,6 +102,16 @@ title: Publications
        </p>
     </div>
 </div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Cross-domain shoe retrieval using a three-level deep feature representation</strong><br />
+           <b>Huijing Zhan</b>, Boxin Shi, Alex C. Kot<br />
+          IEEE International Symposium on Circuits and Systems (<strong>ISCAS</strong>), 2017<br />
+       </p>
+    </div>
+</div>
+
 <h3>
     <a name='2015'></a> 2015
 </h3>
