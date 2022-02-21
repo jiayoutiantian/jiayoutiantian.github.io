@@ -6,17 +6,33 @@ title: Publications
 <br />
 
 <h3>
-    <a name='2019'></a> 2020
+    <a name='2021'></a> 2021
 </h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong> Accelerating CNNs via Budget-aware Filter Pruning with Mask Regularization
+          <strong> A3-FKG: Attentive Attribute-Aware Fashion Knowledge Graph for Outfit Preference Prediction IEEE Transactions on Multimedia (TMM), 2021
 </strong><br />
-           submitted to (<strong>ECCV</strong>), 2020 <br />
+           <b>Huijing Zhan</b>, Jie Lin, Kenan Emir Ak, Boxin Shi, Ling-Yu Duan, and Alex C.Kot<br />
+           IEEE Transactions on Multimedia (<strong>TMM</strong>), 2021 <br />
        </p>
     </div>
 </div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> PAN: Personalized Attention Network For Outfit Recommendation
+</strong><br />
+           <b>Huijing Zhan</b>, Jie Lin<br />
+          IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
+       </p>
+    </div>
+</div>
+
+
+<h3>
+    <a name='2020'></a> 2020
+</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
