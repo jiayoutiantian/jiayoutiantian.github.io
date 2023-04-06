@@ -6,6 +6,36 @@ title: Publications
 <br />
 
 <h3>
+    <a name='2023'></a> 2022
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Towards Explainable Recommendation via Bert-Guided Explanation Generator
+</strong><br />
+           <b>Huijing Zhan</b>, Ling Li, Shaohua Li, Weide Liu, Manas Gupta, Alex C. Kot<br />
+          IEEE International Conference on Acoustics, Speech, & Signal Processing (<strong>ICASSP</strong>), 2023<br />
+       </p>
+    </div>
+</div>
+
+<h3>
+    <a name='2022'></a> 2022
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Rule-Guided Knowledge-Graph based Negative Sampling for Outfit Recommendation
+</strong><br />
+           <b>Huijing Zhan</b>, Ling Li, Xue Geng, Alex C. Kot<br />
+          Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval workshop on Ecommerce (<strong>SIGIR Ecom</strong>), 2022<br />
+       </p>
+    </div>
+</div>
+
+<h3>
     <a name='2021'></a> 2021
 </h3>
 <div class="media">
