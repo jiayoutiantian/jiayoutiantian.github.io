@@ -6,6 +6,21 @@ title: Publications
 <br />
 
 <h3>
+    <a name='2024'></a> 2024
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Contrastive Learning with Bidirectional Transformers for Knowledge Tracing
+</strong><br />
+           <b>Huijing Zhan</b>, Jung-Jae Kim, Guimei Liu<br />
+          IEEE International Conference on Acoustics, Speech, & Signal Processing (<strong>ICASSP</strong>), 2024<br />
+       </p>
+    </div>
+</div>
+
+<h3>
     <a name='2023'></a> 2023
 </h3>
 
