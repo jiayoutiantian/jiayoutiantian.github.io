@@ -27,20 +27,21 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong> Towards Explainable Recommendation via Bert-Guided Explanation Generator
-</strong><br />
-           <b>Huijing Zhan</b>, Ling Li, Shaohua Li, Weide Liu, Manas Gupta, Alex C. Kot<br />
-          IEEE International Conference on Acoustics, Speech, & Signal Processing (<strong>ICASSP</strong>), 2023<br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
           <strong> Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models
 </strong><br />
            Ling Li, Shaohua Li, Winda Marantika, Alex C. Kot, <b>Huijing Zhan</b><br />
            https://arxiv.org/abs/2312.15490<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Towards Explainable Recommendation via Bert-Guided Explanation Generator
+</strong><br />
+           <b>Huijing Zhan</b>, Ling Li, Shaohua Li, Weide Liu, Manas Gupta, Alex C. Kot<br />
+          IEEE International Conference on Acoustics, Speech, & Signal Processing (<strong>ICASSP</strong>), 2023<br />
        </p>
     </div>
 </div>
