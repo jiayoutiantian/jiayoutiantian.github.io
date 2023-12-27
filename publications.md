@@ -34,6 +34,17 @@ title: Publications
        </p>
     </div>
 </div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models
+</strong><br />
+           Ling Li, Shaohua Li, Winda Marantika, Alex C. Kot, <b>Huijing Zhan</b><br />,
+           <b>Huijing Zhan</b>, Ling Li, Shaohua Li, Weide Liu, Manas Gupta, Alex C. Kot<br />
+           https://arxiv.org/abs/2312.15490<br />
+       </p>
+    </div>
+</div>
 
 <h3>
     <a name='2022'></a> 2022
