@@ -39,8 +39,7 @@ title: Publications
        <p class="media-heading">
           <strong> Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models
 </strong><br />
-           Ling Li, Shaohua Li, Winda Marantika, Alex C. Kot, <b>Huijing Zhan</b><br />,
-           <b>Huijing Zhan</b>, Ling Li, Shaohua Li, Weide Liu, Manas Gupta, Alex C. Kot<br />
+           Ling Li, Shaohua Li, Winda Marantika, Alex C. Kot, <b>Huijing Zhan</b><br />
            https://arxiv.org/abs/2312.15490<br />
        </p>
     </div>
