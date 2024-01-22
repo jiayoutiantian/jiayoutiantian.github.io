@@ -38,6 +38,17 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong> Multimodal Sentiment Analysis with Missing Modality: A Knowledge-Transfer Approach
+</strong><br />
+           Weide Liu, <b>Huijing Zhan</b>, Hao Chen, Fengmao Lv<br />
+           arXiv preprint arXiv:2401.10747<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong> Towards Explainable Recommendation via Bert-Guided Explanation Generator
 </strong><br />
            <b>Huijing Zhan</b>, Ling Li, Shaohua Li, Weide Liu, Manas Gupta, Alex C. Kot<br />
