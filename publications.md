@@ -12,6 +12,17 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong> Question Difficulty Consistent Knowledge Tracing
+</strong><br />
+           Guimei Liu, <b>Huijing Zhan</b>, Jung-Jae Kim<br />
+          International World Wide Web Conference (<strong>WWW</strong>), 2024<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong> Contrastive Learning with Bidirectional Transformers for Knowledge Tracing
 </strong><br />
            <b>Huijing Zhan</b>, Jung-Jae Kim, Guimei Liu<br />
