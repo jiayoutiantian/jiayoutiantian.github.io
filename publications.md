@@ -31,32 +31,6 @@ title: Publications
     </div>
 </div>
 
-<h3>
-    <a name='2023'></a> 2023
-</h3>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong> Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models
-</strong><br />
-           Ling Li, Shaohua Li, Winda Marantika, Alex C. Kot, <b>Huijing Zhan</b><br />
-           arXiv preprint arXiv:2312.15490<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong> Multimodal Sentiment Analysis with Missing Modality: A Knowledge-Transfer Approach
-</strong><br />
-           Weide Liu, <b>Huijing Zhan</b>, Hao Chen, Fengmao Lv<br />
-           arXiv preprint arXiv:2401.10747<br />
-       </p>
-    </div>
-</div>
-
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
