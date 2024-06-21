@@ -41,7 +41,6 @@ avatar: "/img/huijingzhanv5.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Zhan Huijing
-  email: "zhantiantian1991@gmail.com"
   github: jiayoutiantian    # eg. daattali
 
 # Select which links to show in the footer
